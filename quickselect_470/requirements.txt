@@ -1,0 +1,15 @@
+imageio==2.24.0
+jupyter==1.0.0
+jupyter-console==6.4.4
+jupyter-server==1.23.3
+jupyter_client==7.4.8
+jupyter_core==5.1.0
+matplotlib==3.6.2
+matplotlib-inline==0.1.6
+numpy==1.23.5
+opencv-python==4.7.0.68
+pandas==1.5.2
+pygifsicle==1.0.7
+scipy==1.9.3
+seaborn==0.12.1
+shapely==2.0.0
